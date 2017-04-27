@@ -75,17 +75,17 @@
     input {
       flex: 1;
       background: #EEEEEE;
-      height: 40px;/*px*/
+      height: 40px;
       appearance: none;
       border: 0;
       box-sizing: border-box;
       outline: 0;
       outline-offset: -4px;/*no*/
-      font-size: 32px; /*px*/
+      font-size: 32px;
       color: #222222;
-      line-height: 40px;/*px*/
+      line-height: 40px;
       padding-left:8px;/*no*/
-      margin-top: -4px;/*px*/
+      margin-top: -4px;
     }
     .wd-search-input-close {
       display: block;
@@ -95,7 +95,7 @@
       border-radius: 50%;
       box-sizing: border-box;
       background: rgba(0,0,0,0.3);
-      font-size: 20px;/*px*/
+      font-size: 20px;
       color: #ffffff;
       text-align: center;
       position: absolute;
@@ -110,7 +110,7 @@
      text-align: center;
      background: #C60A1E;
      border-radius: 4px; /*no*/
-     font-size: 28px; /*px*/
+     font-size: 28px;
      color: #FFFFFF;
   }
 }

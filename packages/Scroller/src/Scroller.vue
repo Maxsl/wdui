@@ -390,21 +390,21 @@ export default {
     width: 100%;
     text-align: center;
     margin: 20px 0;
-    font-size: 20px;/*px*/
+    font-size: 20px;
     color: #999999;
   }
   .no-text {
     width: 100%;
     text-align: center;
     margin: 20px 0;
-    font-size: 20px;/*px*/
+    font-size: 20px;
     color: #999999;
   }
   .top-text {
     width: 100%;
     text-align: center;
     margin: 20px 0;
-    font-size: 20px;/*px*/
+    font-size: 20px;
     color: #999999;
   }
   .top-text:before {

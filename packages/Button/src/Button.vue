@@ -145,7 +145,7 @@ $button-disabled-opacity: 0.4;
   }
 
   label {
-    font-size: $button-text-size; /* px */
+    font-size: $button-text-size;
   }
 }
 </style>
